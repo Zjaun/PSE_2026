@@ -1,4 +1,4 @@
-# [PSE 2026] E-Barangay Mock System
+# [PSE 2026] Reservation and Billing Mock System
 
 ## Pre-requisites
 - Must have [XAMPP](https://www.apachefriends.org/download.html) installed;
